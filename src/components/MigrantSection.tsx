@@ -30,7 +30,7 @@ export default function MigrantSection() {
   ];
 
   return (
-    <section id="migrantes" className="py-20 bg-brand-surface/40 relative overflow-hidden border-t border-emerald-800/40">
+    <section id="migrantes" className="interactive-section py-20 bg-brand-surface/40 relative overflow-hidden border-t border-emerald-800/40">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         
         {/* Banner header */}

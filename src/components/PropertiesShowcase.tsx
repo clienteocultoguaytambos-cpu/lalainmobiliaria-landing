@@ -75,7 +75,7 @@ export default function PropertiesShowcase() {
   ];
 
   return (
-    <section id="propiedades" className="py-20 bg-brand-dark">
+    <section id="propiedades" className="interactive-section py-20 bg-brand-dark">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Header */}

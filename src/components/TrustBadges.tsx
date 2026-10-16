@@ -30,7 +30,7 @@ export default function TrustBadges() {
   ];
 
   return (
-    <section id="garantia" className="py-16 bg-brand-dark/80 border-y border-emerald-900/50">
+    <section id="garantia" className="interactive-section py-16 bg-brand-dark/80 border-b border-emerald-900/50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}

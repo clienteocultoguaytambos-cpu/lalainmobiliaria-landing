@@ -62,3 +62,58 @@ h1, h2, h3, h4, .font-heading {
   box-shadow: 0 0 20px rgba(200, 162, 87, 0.4);
   transform: translateY(-2px);
 }
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Smooth scroll margin for anchors */
+section {
+  scroll-margin-top: 5rem;
+}
+
+/* Marquee continuous scroll animation */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Interactive section styling with smooth visual feedback */
+.interactive-section {
+  position: relative;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.4s ease;
+}
+
+.interactive-section:hover {
+  box-shadow: inset 0 0 60px rgba(200, 162, 87, 0.03);
+}
+
+/* Subtle target flash when navigating from navbar */
+section:target {
+  animation: targetHighlight 1.5s ease-out;
+}
+
+@keyframes targetHighlight {
+  0% {
+    box-shadow: 0 0 0 3px rgba(200, 162, 87, 0.6), inset 0 0 40px rgba(200, 162, 87, 0.1);
+  }
+  100% {
+    box-shadow: 0 0 0 0 transparent, inset 0 0 0 transparent;
+  }
+}
+

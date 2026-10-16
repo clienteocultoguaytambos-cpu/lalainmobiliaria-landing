@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import { ShieldCheck, CheckCircle2, ArrowRight, MapPin, Award } from "lucide-react";
+import { ShieldCheck, ArrowRight, MapPin, Award } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -53,29 +53,9 @@ export default function Hero() {
             </h1>
 
             {/* Subtitle */}
-            <p className="text-base sm:text-lg text-emerald-100/90 max-w-2xl mx-auto lg:mx-0 font-normal leading-relaxed">
-              Encuentra tu casa o terreno con escrituras al día, certificados de gravamen verificados y acompañamiento paso a paso. Compra seguro estés en Ecuador o viviendo en Estados Unidos.
+            <p className="text-base sm:text-lg text-emerald-100/90 max-w-xl mx-auto lg:mx-0 font-medium leading-relaxed">
+              Casas y terrenos con escrituras al día y compra 100% segura, estés en Ecuador o en Estados Unidos.
             </p>
-
-            {/* Feature Bullets */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2 text-xs sm:text-sm text-emerald-200">
-              <div className="flex items-center gap-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-brand-gold flex-shrink-0" />
-                <span>Documentación y escrituras al día</span>
-              </div>
-              <div className="flex items-center gap-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-brand-gold flex-shrink-0" />
-                <span>Asesoría en Crédito BIESS y Bancos</span>
-              </div>
-              <div className="flex items-center gap-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-brand-gold flex-shrink-0" />
-                <span>Trámites consulares para migrantes</span>
-              </div>
-              <div className="flex items-center gap-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-brand-gold flex-shrink-0" />
-                <span>Precios transparentes sin sorpresas</span>
-              </div>
-            </div>
 
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row items-center gap-4 pt-4 justify-center lg:justify-start">
