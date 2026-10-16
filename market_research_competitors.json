@@ -1,0 +1,2860 @@
+﻿[
+    {
+        "title":  "Bama Bienes Raíces DC Corp",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  null,
+        "price":  null,
+        "categoryName":  "Promotora inmobiliaria",
+        "address":  "C. Emilio Abad Aguilar 4-36, 030102 Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "C. Emilio Abad Aguilar 4-36",
+        "city":  "Azogues",
+        "postalCode":  "030102",
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "+593 99 428 3123",
+        "phoneUnformatted":  "+593994283123",
+        "claimThisBusiness":  true,
+        "location":  {
+                         "lat":  -2.7417982,
+                         "lng":  -78.8461183
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7553+7H Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  null,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJQRmupKMSzZERnZ1U4Wk07mg",
+        "categories":  [
+                           "Promotora inmobiliaria",
+                           "Compraventa de automóviles"
+                       ],
+        "fid":  "0x91cd12a3a4ae1941:0x68ee3469e1549d9d",
+        "cid":  "7561038453758270877",
+        "reviewsCount":  null,
+        "imagesCount":  3,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:06.164Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "8 AM to 5 PM"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  false,
+        "peopleAlsoSearch":  [
+
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Bama%20Bienes%20Ra%C3%ADces%20DC%20Corp\u0026query_place_id=ChIJQRmupKMSzZERnZ1U4Wk07mg",
+        "searchPageUrl":  "https://www.google.com/maps/search/bienes%20raices%20Azogues%20Ecuador?hl=es",
+        "searchString":  "bienes raices Azogues Ecuador",
+        "language":  "es",
+        "rank":  6,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh6.googleusercontent.com/cKTNXA4ZdkFB95VA9THh5Dz9KkUbrsnI9WN3dBWAp2bGvoop0XQZLMSBxKZeo_0=w408-h306-k-no",
+        "kgmid":  "/g/11h2k33v4s",
+        "businessProfileId":  null,
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Casa Cañar",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  null,
+        "price":  null,
+        "categoryName":  "Urbanización",
+        "address":  "F23V+JV, Cañar, Ecuador",
+        "neighborhood":  null,
+        "street":  "F23V+JV",
+        "city":  "Cañar",
+        "postalCode":  null,
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "",
+        "phoneUnformatted":  "",
+        "claimThisBusiness":  true,
+        "location":  {
+                         "lat":  -2.5422459,
+                         "lng":  -78.929815
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  null,
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  5,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJca2gLNhnzZERFCh7EKByu3Q",
+        "categories":  [
+                           "Urbanización"
+                       ],
+        "fid":  "0x91cd67d82ca0ad71:0x74bb72a0107b2814",
+        "cid":  "8411442760841373716",
+        "reviewsCount":  1,
+        "reviewsDistribution":  {
+                                    "oneStar":  0,
+                                    "twoStar":  0,
+                                    "threeStar":  0,
+                                    "fourStar":  0,
+                                    "fiveStar":  1
+                                },
+        "imagesCount":  2,
+        "imageCategories":  [
+                                "Todas",
+                                "Exterior",
+                                "De los visitantes"
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:10.415Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+
+                         ],
+        "wasOpenAtScrapeTime":  null,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Casa en venta",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "CASA CORDOVA",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Un casa de canar",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Casa Carlos",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Cañar",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Casa%20Ca%C3%B1ar\u0026query_place_id=ChIJca2gLNhnzZERFCh7EKByu3Q",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Ca%C3%83%C2%B1ar%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria CaÃ±ar Ecuador",
+        "language":  "es",
+        "rank":  1,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rqml0Wh0nD7kh8f2J-Aw25cXhrHG1VxN8EbFhdvbFqLQJvgrDNvZxqvOAOIACi08zsR4Wnlv5CQcNhUHBP-CrIA-XA3DRkb9MOh7ecyeMs19B3b66uiOO2RBaXCbJ797oyxqJmwoG6OY1L=w408-h544-k-no",
+        "kgmid":  "/g/11v553pm93",
+        "businessProfileId":  null,
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "110393815085819460087",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/110393815085819460087?hl=es-419",
+                            "name":  "Cesar Espinoza",
+                            "reviewerNumberOfReviews":  12,
+                            "isLocalGuide":  true,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjXkuYhO9m7VRA16Jo1m6B8-f1ONm-XQ6v74BOzBZ0ZxOZBjE63U=s1920-c-rp-mo-ba12-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 8 meses",
+                            "publishedAtDate":  "2026-01-18T21:42:33.116Z",
+                            "likesCount":  0,
+                            "reviewId":  "Ci9DQUlRQUNvZENodHljRjlvT205cVlXWndjbXhrWVZsd2QyTllTRVl3TkV0Q1VVRRAB",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205cVlXWndjbXhrWVZsd2QyTllTRVl3TkV0Q1VVRRAB!2m1!1s0x0:0x74bb72a0107b2814!3m1!1s2@1:CAIQACodChtycF9oOm9qYWZwcmxkYVlwd2NYSEYwNEtCUUE%7C%7C?hl=es-419",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+                                                    "https://lh3.googleusercontent.com/grass-cs/AABkmLe2-2GPVn6SB5hmDGlg1I-RXs_Ph-r4qAc-wyWlsBgmE_EJFVVL0gEfiGSBM_POJvRkiGHt5P9AueUXvV2BGIh-oEE_fIMiP5Hjaq1dIF6gHTBalkY3O0EKnTd7xndGK8HBlqCJ2dW4gY3x=k-no"
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Casa en venta",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  null,
+        "price":  null,
+        "categoryName":  "Urbanización",
+        "address":  "C3V6+GPJ, Av. 24 de Mayo, Cañar, Ecuador",
+        "neighborhood":  null,
+        "street":  "C3V6+GPJ, Av. 24 de Mayo",
+        "city":  "Cañar",
+        "postalCode":  null,
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "",
+        "phoneUnformatted":  "",
+        "claimThisBusiness":  true,
+        "location":  {
+                         "lat":  -2.5563229,
+                         "lng":  -78.9384792
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  null,
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  null,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJB5pXCABnzZERrLVaCmwwBrI",
+        "categories":  [
+                           "Urbanización"
+                       ],
+        "fid":  "0x91cd670008579a07:0xb206306c0a5ab5ac",
+        "cid":  "12827993829199754668",
+        "reviewsCount":  null,
+        "imagesCount":  0,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:10.161Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+
+                         ],
+        "wasOpenAtScrapeTime":  null,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Un casa de canar",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Casa Cañar",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Inmobiliaria Inmohogar del Austro",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Casa Carlos",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "CASA CORDOVA",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Casa%20en%20venta\u0026query_place_id=ChIJB5pXCABnzZERrLVaCmwwBrI",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Ca%C3%83%C2%B1ar%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria CaÃ±ar Ecuador",
+        "language":  "es",
+        "rank":  3,
+        "isAdvertisement":  false,
+        "imageUrl":  null,
+        "kgmid":  "/g/11vy0st0cf",
+        "businessProfileId":  null,
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Casa en venta",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "Casa moderna y lujosa por estrenar en venta en la cdla. Nuevo Cañar",
+        "price":  null,
+        "categoryName":  "Agencia inmobiliaria",
+        "address":  "030350 Cañar, Ecuador",
+        "neighborhood":  null,
+        "street":  null,
+        "city":  "Cañar",
+        "postalCode":  "030350",
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "+593 99 374 4424",
+        "phoneUnformatted":  "+593993744424",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.5399754,
+                         "lng":  -78.9330978
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "F368+2Q Cañar, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  null,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJcXwBv3lnzZERcR2pkDKsRy4",
+        "categories":  [
+                           "Agencia inmobiliaria"
+                       ],
+        "fid":  "0x91cd6779bf017c71:0x2e47ac3290a91d71",
+        "cid":  "3334823382266486129",
+        "reviewsCount":  null,
+        "imagesCount":  1,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:11.250Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "Abierto las 24 horas"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  true,
+        "peopleAlsoSearch":  [
+
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Casa%20en%20venta\u0026query_place_id=ChIJcXwBv3lnzZERcR2pkDKsRy4",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Ca%C3%83%C2%B1ar%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria CaÃ±ar Ecuador",
+        "language":  "es",
+        "rank":  2,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh3.googleusercontent.com/grass-cs/AABkmLd6UmFtZt7jQsgPd-9cWTcEnFQw_ZGEuDOpd2IP8bHlPse1oZLq9IftBucbrYfMvSME8_S040FPDCC2hIiPk04kK37IzHm42wN0Nf1DGUeE6PHTWDwGixWwCsbWWR1Q5WJZk_PTq9v5SIyL=w408-h407-k-no",
+        "kgmid":  "/g/11ycydw2qp",
+        "businessProfileId":  "1100795443130960624",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Abuga Comercial Center",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "Edificio Comercial.\nProductos de ferretería\nBalanceados y productos de primera necesidad",
+        "price":  null,
+        "categoryName":  "Agencia de bienes inmuebles comerciales",
+        "address":  "Corazon Maria y, Juan Monroy y Bayas Esq, Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "Corazon Maria y, Juan Monroy y Bayas Esq",
+        "city":  "Azogues",
+        "postalCode":  null,
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "+593 98 388 7957",
+        "phoneUnformatted":  "+593983887957",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7314429,
+                         "lng":  -78.8367157
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7597+C8 Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  4,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJDxVynK8NzZERJS6s7PTMQeU",
+        "categories":  [
+                           "Agencia de bienes inmuebles comerciales"
+                       ],
+        "fid":  "0x91cd0daf9c72150f:0xe541ccf4ecac2e25",
+        "cid":  "16519710260486483493",
+        "reviewsCount":  1,
+        "reviewsDistribution":  {
+                                    "oneStar":  0,
+                                    "twoStar":  0,
+                                    "threeStar":  0,
+                                    "fourStar":  1,
+                                    "fiveStar":  0
+                                },
+        "imagesCount":  8,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:13.450Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "7 AM to 12 PM"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "7 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "7 AM to 9 PM"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "7 AM to 9 PM"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "7 AM to 9 PM"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "7 AM to 9 PM"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "7 AM to 9 PM"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  false,
+        "peopleAlsoSearch":  [
+
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Abuga%20Comercial%20Center\u0026query_place_id=ChIJDxVynK8NzZERJS6s7PTMQeU",
+        "searchPageUrl":  "https://www.google.com/maps/search/bienes%20raices%20Azogues%20Ecuador?hl=es",
+        "searchString":  "bienes raices Azogues Ecuador",
+        "language":  "es",
+        "rank":  5,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-Z6iVIrm_oWmKQyVteEsxTjIJPEZklU7Hqut6N-k87TRTOC12MtERpf9hgfiIuL7OwglIfTZviekCHI0ASewILBEal1Hv-RjlTfR7k6wooi7xBAXnQYlKMX-brCZdSKJgG5mB6w=w408-h306-k-no",
+        "kgmid":  "/g/11tc0mkwpp",
+        "businessProfileId":  "16404559450439187419",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "106728537475635252468",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/106728537475635252468?hl=es-419",
+                            "name":  "Carmita Rojas",
+                            "reviewerNumberOfReviews":  0,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjWQrxJe3k-D3W2Si-PdGLCkTP6yX-TPFB8Wgfp0mTjcTMwmBY0=s1920-c-rp-mo-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 3 años",
+                            "publishedAtDate":  "2023-09-14T05:32:22.401Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUNaaGFyREpREAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNaaGFyREpREAE!2m1!1s0x0:0xe541ccf4ecac2e25!3m1!1s2@1:CIHM0ogKEICAgICZharDJQ%7C%7C?hl=es-419",
+                            "reviewOrigin":  "Google",
+                            "stars":  4,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Inmobiliaria Americanrealtyec.SAS",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "AmericanRealtyEC | Tu inversión, nuestro compromiso\n🏡 Somos una agencia inmobiliaria especializada en la compra, venta y arriendo de bienes raíces: casas, terrenos, sitios, haciendas y propiedades comerciales en todo el Ecuador.\n✅ Ofrecemos asesoría personalizada, respaldo legal y atención ágil en cada etapa del proceso.\n🌎 Atendemos a clientes locales y en el extranjero con total confianza, transparencia y compromiso profesional.\n🔑 Encuentra tu hogar ideal o haz crecer tu patrimonio con AmericanRealtyEC",
+        "price":  null,
+        "categoryName":  "Agencia inmobiliaria",
+        "address":  "Sucre y Bolívar, Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "Sucre y Bolívar",
+        "city":  "Azogues",
+        "postalCode":  null,
+        "state":  null,
+        "countryCode":  "EC",
+        "website":  "http://www.americanrealtyec.com/",
+        "phone":  "+593 99 848 6007",
+        "phoneUnformatted":  "+593998486007",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7387637,
+                         "lng":  -78.8464951
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7563+FC Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  5,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJM-1J7NtszZERQs44Qr4dkOQ",
+        "categories":  [
+                           "Agencia inmobiliaria"
+                       ],
+        "fid":  "0x91cd6cdbec49ed33:0xe4901dbe4238ce42",
+        "cid":  "16469696540285914690",
+        "reviewsCount":  1,
+        "reviewsDistribution":  {
+                                    "oneStar":  0,
+                                    "twoStar":  0,
+                                    "threeStar":  0,
+                                    "fourStar":  0,
+                                    "fiveStar":  1
+                                },
+        "imagesCount":  5,
+        "imageCategories":  [
+                                "Todas",
+                                "Del propietario",
+                                "Street View y 360°"
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:14.990Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "8 AM to 5 PM"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "8 AM to 5 PM"
+                             }
+                         ],
+        "additionalOpeningHours":  {
+                                       "Almuerzo":  [
+                                                        {
+                                                            "day":  "sábado",
+                                                            "hours":  "Cerrado"
+                                                        },
+                                                        {
+                                                            "day":  "domingo",
+                                                            "hours":  "Cerrado"
+                                                        },
+                                                        {
+                                                            "day":  "lunes",
+                                                            "hours":  "12–1 p.m."
+                                                        },
+                                                        {
+                                                            "day":  "martes",
+                                                            "hours":  "12–1 p.m."
+                                                        },
+                                                        {
+                                                            "day":  "miércoles",
+                                                            "hours":  "12–1 p.m."
+                                                        },
+                                                        {
+                                                            "day":  "jueves",
+                                                            "hours":  "12–1 p.m."
+                                                        },
+                                                        {
+                                                            "day":  "viernes",
+                                                            "hours":  "12–1 p.m."
+                                                        }
+                                                    ],
+                                       "Horario de atención en línea":  [
+                                                                            {
+                                                                                "day":  "sábado",
+                                                                                "hours":  "8 a.m.–5 p.m."
+                                                                            },
+                                                                            {
+                                                                                "day":  "domingo",
+                                                                                "hours":  "8 a.m.–5 p.m."
+                                                                            },
+                                                                            {
+                                                                                "day":  "lunes",
+                                                                                "hours":  "8 a.m.–5 p.m."
+                                                                            },
+                                                                            {
+                                                                                "day":  "martes",
+                                                                                "hours":  "8 a.m.–5 p.m."
+                                                                            },
+                                                                            {
+                                                                                "day":  "miércoles",
+                                                                                "hours":  "8 a.m.–5 p.m."
+                                                                            },
+                                                                            {
+                                                                                "day":  "jueves",
+                                                                                "hours":  "8 a.m.–5 p.m."
+                                                                            },
+                                                                            {
+                                                                                "day":  "viernes",
+                                                                                "hours":  "8 a.m.–5 p.m."
+                                                                            }
+                                                                        ]
+                                   },
+        "wasOpenAtScrapeTime":  false,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Global Bienes Raices",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Ofertas Inmobiliarias Inveraustro",
+                                     "reviewsCount":  7,
+                                     "totalScore":  4.7
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Servicios Inmobiliarios \"Crecer\"",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "BIENES RAÍCES NEPROSER",
+                                     "reviewsCount":  13,
+                                     "totalScore":  4.3
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Casa",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "additionalInfo":  {
+                               "Opciones de servicio":  [
+                                                            {
+                                                                "Citas en línea":  true
+                                                            },
+                                                            {
+                                                                "Servicios en el lugar":  true
+                                                            }
+                                                        ],
+                               "Servicios":  [
+                                                 {
+                                                     "Sanitarios unisex":  true
+                                                 }
+                                             ],
+                               "Planificación":  [
+                                                     {
+                                                         "Se requiere una cita":  true
+                                                     }
+                                                 ]
+                           },
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Inmobiliaria%20Americanrealtyec.SAS\u0026query_place_id=ChIJM-1J7NtszZERQs44Qr4dkOQ",
+        "searchPageUrl":  "https://www.google.com/maps/search/bienes%20raices%20Azogues%20Ecuador?hl=es",
+        "searchString":  "bienes raices Azogues Ecuador",
+        "language":  "es",
+        "rank":  3,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XPsMTyLJ0ppi35RV_DBE4g\u0026cb_client=search.gws-prod.gps\u0026w=408\u0026h=240\u0026yaw=7.3326883\u0026pitch=0\u0026thumbfov=100",
+        "kgmid":  "/g/11hcv8d7yt",
+        "businessProfileId":  "18252444887815843090",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "108086488230327895229",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/108086488230327895229?hl=es-419",
+                            "name":  "Wilson padilla",
+                            "reviewerNumberOfReviews":  0,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a/ACg8ocKICGo19NseMzi8aslQuaBVb9osItgYg8hEWiC3z7OPBARzgg=s1920-c-rp-mo-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 2 años",
+                            "publishedAtDate":  "2024-01-19T22:39:26.922Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUROa1A2VVZBEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUROa1A2VVZBEAE!2m1!1s0x0:0xe4901dbe4238ce42!3m1!1s2@1:CIHM0ogKEICAgIDNkP6UVA%7C%7C?hl=es-419",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Ofertas Inmobiliarias Inveraustro",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "Necesitas comprar, vender, arrendar o cotizar tu inmueble nosotros te asesoramos visitamos será un placer servirte",
+        "price":  null,
+        "categoryName":  "Agencia inmobiliaria",
+        "address":  "C. Antonio José de Sucre 404, 030102 Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "C. Antonio José de Sucre 404",
+        "city":  "Azogues",
+        "postalCode":  "030102",
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "+593 98 493 1475",
+        "phoneUnformatted":  "+593984931475",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7387576,
+                         "lng":  -78.8464566
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7563+FC Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  4.7,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJZd0EX6QSzZER_j2Bmd-h9dI",
+        "categories":  [
+                           "Agencia inmobiliaria"
+                       ],
+        "fid":  "0x91cd12a45f04dd65:0xd2f5a1df99813dfe",
+        "cid":  "15201234098984140286",
+        "reviewsCount":  7,
+        "reviewsDistribution":  {
+                                    "oneStar":  0,
+                                    "twoStar":  0,
+                                    "threeStar":  1,
+                                    "fourStar":  0,
+                                    "fiveStar":  6
+                                },
+        "imagesCount":  24,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:14.864Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "8:30 AM to 1 PM"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "8:30 AM to 12:30 PM, 2:30 to 6 PM"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "8:30 AM to 12:30 PM, 2:30 to 6 PM"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "8:30 AM to 12:30 PM, 2:30 to 6 PM"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "8:30 AM to 12:30 PM, 2:30 to 6 PM"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "8:30 AM to 12:30 PM, 2:30 to 6 PM"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  false,
+        "peopleAlsoSearch":  [
+
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Ofertas%20Inmobiliarias%20Inveraustro\u0026query_place_id=ChIJZd0EX6QSzZER_j2Bmd-h9dI",
+        "searchPageUrl":  "https://www.google.com/maps/search/bienes%20raices%20Azogues%20Ecuador?hl=es",
+        "searchString":  "bienes raices Azogues Ecuador",
+        "language":  "es",
+        "rank":  4,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh3.googleusercontent.com/grass-cs/AABkmLfOwJ99PTxfVC5UWJnFuttgqHOU_FSNjK6tTJ094IlS8Fl9xgpPSMh8iKMEujAkVtOHq6lJkbRr2iqMCZbxTXsCPaMY8MnMGpOztnl646-pSw3A3wTgsPIWzmRpyItGuIub0_A=w426-h240-k-no",
+        "kgmid":  "/g/11bx5pycmf",
+        "businessProfileId":  "2557785154037489751",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+                             {
+                                 "name":  "wa.link",
+                                 "url":  "https://wa.link/3duep4"
+                             }
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "108656396962068484005",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/108656396962068484005?hl=es",
+                            "name":  "Anonymus",
+                            "reviewerNumberOfReviews":  0,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjUEL3KGN3o-oCuRxbrSKVEGekRO3D_ZZTXipMjPM14IGDyyBU3k=s1920-c-rp-mo-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 3 meses",
+                            "publishedAtDate":  "2026-06-24T20:41:25.024Z",
+                            "likesCount":  0,
+                            "reviewId":  "Ci9DQUlRQUNvZENodHljRjlvT2poRGIyRm9ibmRZZEdWQk1UaG5VRmRaTVhocWQzYxAB",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poRGIyRm9ibmRZZEdWQk1UaG5VRmRaTVhocWQzYxAB!2m1!1s0x0:0xd2f5a1df99813dfe!3m1!1s2@1:CAIQACodChtycF9oOjhDb2FobndYdGVBMThnUFdZMXhqd3c%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "118214737035786627267",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/118214737035786627267?hl=es",
+                            "name":  "Otto Guaman",
+                            "reviewerNumberOfReviews":  6,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjXNqhM7lgmBz13sk_H8Ki9xpnu85Dw3DYh7eW0ng3ciD777odU=s1920-c-rp-mo-br100",
+                            "text":  "Empresa de profesionales, una empresa estructura.",
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 2 años",
+                            "publishedAtDate":  "2024-06-21T16:41:21.384Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUNMcGFUdUFREAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMcGFUdUFREAE!2m1!1s0x0:0xd2f5a1df99813dfe!3m1!1s2@1:CIHM0ogKEICAgICLpaTuAQ%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  "es",
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "113252859885860772267",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/113252859885860772267?hl=es",
+                            "name":  "Edwin Mejía",
+                            "reviewerNumberOfReviews":  2,
+                            "isLocalGuide":  true,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjUEQDs4Z6c557x6DpcoXW_AoZVrNsQ_RHrIr8JOJpnOsM8KfrS9BA=s1920-c-rp-mo-ba12-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 3 años",
+                            "publishedAtDate":  "2023-01-30T01:15:59.242Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChdDSUhNMG9nS0VJQ0FnSURCLV9hejNnRRAB",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURCLV9hejNnRRAB!2m1!1s0x0:0xd2f5a1df99813dfe!3m1!1s2@1:CIHM0ogKEICAgIDB-_az3gE%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "111555951430794549994",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/111555951430794549994?hl=es",
+                            "name":  "GALO Hurtado",
+                            "reviewerNumberOfReviews":  1,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjUBtQNFvXuaB3N_MWHDfZ2sFQhZ_U0Uz7PVkoEWRkfzLC9j_C4=s1920-c-rp-mo-br100",
+                            "text":  "Excelente Servicio",
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 4 años",
+                            "publishedAtDate":  "2022-05-18T01:36:31.842Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChdDSUhNMG9nS0VJQ0FnSUQyaVpUWW1BRRAB",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQyaVpUWW1BRRAB!2m1!1s0x0:0xd2f5a1df99813dfe!3m1!1s2@1:CIHM0ogKEICAgID2iZTYmAE%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  "es",
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "113395307784248414049",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/113395307784248414049?hl=es",
+                            "name":  "Andres Morales",
+                            "reviewerNumberOfReviews":  2,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjVXu2vpIbIZQw4Vc-nOXL_vEPIdnHQD9v2h-9b4KUKxX3tWV6h2=s1920-c-rp-mo-br100",
+                            "text":  "Excelente calidad de Servicio al cliente!",
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 4 años",
+                            "publishedAtDate":  "2022-01-26T16:03:16.434Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSURteG9UTUtBEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURteG9UTUtBEAE!2m1!1s0x0:0xd2f5a1df99813dfe!3m1!1s2@1:CIHM0ogKEICAgIDmxoTMKA%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+                                                  "Aspectos positivos":  "Calidad"
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  "es",
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "BIENES RAÍCES NEPROSER",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "Empresa dedicada a la compra–venta de bienes raíces y al desarrollo de proyectos inmobiliarios.",
+        "price":  null,
+        "categoryName":  "Agencia inmobiliaria",
+        "address":  "calle Bolívar, entre calle Sucre y, C. 3 de Noviembre, Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "calle Bolívar, entre calle Sucre y, C. 3 de Noviembre",
+        "city":  "Azogues",
+        "postalCode":  null,
+        "state":  null,
+        "countryCode":  "EC",
+        "website":  "https://www.facebook.com/neproser",
+        "phone":  "+593 99 985 8269",
+        "phoneUnformatted":  "+593999858269",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7388797,
+                         "lng":  -78.8463149
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7563+CF Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  4.3,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJV9fRfKQSzZERFht1i6EWwHk",
+        "categories":  [
+                           "Agencia inmobiliaria"
+                       ],
+        "fid":  "0x91cd12a47cd1d757:0x79c016a18b751b16",
+        "cid":  "8773036957202979606",
+        "reviewsCount":  13,
+        "reviewsDistribution":  {
+                                    "oneStar":  2,
+                                    "twoStar":  0,
+                                    "threeStar":  0,
+                                    "fourStar":  1,
+                                    "fiveStar":  10
+                                },
+        "imagesCount":  4,
+        "imageCategories":  [
+                                "Todas",
+                                "Del propietario",
+                                "Street View y 360°"
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:18.047Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "8 AM to 12 PM"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "8 AM to 6 PM"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  false,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Servicios Inmobiliarios \"Crecer\"",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Global Bienes Raices",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Ofertas Inmobiliarias Inveraustro",
+                                     "reviewsCount":  7,
+                                     "totalScore":  4.7
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Inmobiliaria Americanrealtyec.SAS",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Más Inmobiliaria",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=BIENES%20RA%C3%8DCES%20NEPROSER\u0026query_place_id=ChIJV9fRfKQSzZERFht1i6EWwHk",
+        "searchPageUrl":  "https://www.google.com/maps/search/bienes%20raices%20Azogues%20Ecuador?hl=es",
+        "searchString":  "bienes raices Azogues Ecuador",
+        "language":  "es",
+        "rank":  1,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SqRzEbxghXsZxxxVbO8-EYMG5-k5-ngJ9wKryfTlVwZUwQd0uyIAeAGtfEcdjUs5UHRB2x_S2ysfI3w233lkR8PW-qynEKo3aXjt7odcedberMB6JH2bWw9_3nlEYRRAubbkbL=w426-h240-k-no",
+        "kgmid":  "/g/11btwsr0tk",
+        "businessProfileId":  "3498376456243487707",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "109467699492278453779",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/109467699492278453779?hl=es",
+                            "name":  "Jose Eduardo González Neira",
+                            "reviewerNumberOfReviews":  1,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a/ACg8ocJVOqO1xcLAKfTFMV7sCmHizScbID2Jdp8uGcH5S-nqraSLow=s1920-c-rp-mo-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 4 años",
+                            "publishedAtDate":  "2022-09-26T21:26:07.028Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUNlOTR2NVlnEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNlOTR2NVlnEAE!2m1!1s0x0:0x79c016a18b751b16!3m1!1s2@1:CIHM0ogKEICAgICe94v5Yg%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "118079091637914347042",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/118079091637914347042?hl=es",
+                            "name":  "Mirian Mendoza",
+                            "reviewerNumberOfReviews":  2,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjWfzmPrAFbEvWglAvFHjnkI478WXWubIJr1-3zdrM0lFE4UHMqH=s1920-c-rp-mo-br100",
+                            "text":  "Excelentes profesionales de los bienes raices, altamente recomendados",
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 4 años",
+                            "publishedAtDate":  "2022-06-24T17:09:16.795Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSURPb096TWVBEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURPb096TWVBEAE!2m1!1s0x0:0x79c016a18b751b16!3m1!1s2@1:CIHM0ogKEICAgIDOoOzMeA%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  "es",
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "116709219729563162398",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/116709219729563162398?hl=es",
+                            "name":  "Rocio Saldaña",
+                            "reviewerNumberOfReviews":  0,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a/ACg8ocJXXnsJuZgueEIl6VS2N4DLt3lLSuBFKqUaQ-rKVrmzdm8QCA=s1920-c-rp-mo-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 5 años",
+                            "publishedAtDate":  "2021-04-20T21:38:36.325Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUNLaDZDY1VBEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLaDZDY1VBEAE!2m1!1s0x0:0x79c016a18b751b16!3m1!1s2@1:CIHM0ogKEICAgICKh6CcUA%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+                                                  "Aspectos positivos":  "Calidad"
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "117511982905251953374",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/117511982905251953374?hl=es",
+                            "name":  "Luis oswaldo Avila Auqui",
+                            "reviewerNumberOfReviews":  0,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a/ACg8ocJ-9JolEGMnfR6iN1eGqmwKn_U-8pJm_Obto7V4nNAz1LRQGA=s1920-c-rp-mo-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 5 años",
+                            "publishedAtDate":  "2021-04-20T20:55:56.121Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUNLLThlS2RnEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLLThlS2RnEAE!2m1!1s0x0:0x79c016a18b751b16!3m1!1s2@1:CIHM0ogKEICAgICK-8eKdg%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+                                                  "Aspectos positivos":  "Capacidad de respuesta, Calidad, Profesionalidad, Valor"
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        },
+                        {
+                            "reviewerId":  "115174251408773327407",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/115174251408773327407?hl=es",
+                            "name":  "Alberto Matovelle",
+                            "reviewerNumberOfReviews":  0,
+                            "isLocalGuide":  false,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a/ACg8ocLAvzYb3hBeNndtToRv8GOmRWPbNTX_gLpF4K_HO25RsVWNwQ=s1920-c-rp-mo-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 5 años",
+                            "publishedAtDate":  "2021-02-17T17:02:51.242Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUN5ejVpQUVBEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN5ejVpQUVBEAE!2m1!1s0x0:0x79c016a18b751b16!3m1!1s2@1:CIHM0ogKEICAgICyz5iAEA%7C%7C?hl=es",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Global Bienes Raices",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "Bienvenidos a Global, una empresa con visión futurista, donde podrás vender o comprar bienes muebles e inmuebles al mejor precio del mercado.\nTienes una casa, terreno o auto que quieras vender, nosotros te ayudamos y obtén la mayor rentabilidad.\nTienes un local comercial u oficinas y las deseas rentar o vender nosotros lo hacemos por ti.",
+        "price":  null,
+        "categoryName":  "Agencia de bienes inmuebles comerciales",
+        "address":  "030102 Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  null,
+        "city":  "Azogues",
+        "postalCode":  "030102",
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "+593 98 765 9649",
+        "phoneUnformatted":  "+593987659649",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7442343,
+                         "lng":  -78.8451694
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7543+8W Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  null,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJ9avq6DYTzZER42tZlLNCTao",
+        "categories":  [
+                           "Agencia de bienes inmuebles comerciales"
+                       ],
+        "fid":  "0x91cd1336e8eaabf5:0xaa4d42b394596be3",
+        "cid":  "12271537898709937123",
+        "reviewsCount":  null,
+        "imagesCount":  1,
+        "imageCategories":  [
+                                "Todas",
+                                "Street View y 360°"
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:18.692Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "Abierto las 24 horas"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  true,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "BIENES RAÍCES NEPROSER",
+                                     "reviewsCount":  13,
+                                     "totalScore":  4.3
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Bama Bienes Raíces DC Corp",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Servicios Inmobiliarios \"Crecer\"",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Inmobiliaria Americanrealtyec.SAS",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Más Inmobiliaria",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Global%20Bienes%20Raices\u0026query_place_id=ChIJ9avq6DYTzZER42tZlLNCTao",
+        "searchPageUrl":  "https://www.google.com/maps/search/bienes%20raices%20Azogues%20Ecuador?hl=es",
+        "searchString":  "bienes raices Azogues Ecuador",
+        "language":  "es",
+        "rank":  2,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RD10FIVcYeGmEzkSZuSseg\u0026cb_client=search.gws-prod.grass\u0026w=408\u0026h=240\u0026yaw=302.21793\u0026pitch=0\u0026thumbfov=100",
+        "kgmid":  "/g/11xfjjfq4n",
+        "businessProfileId":  "3666558684877568022",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Inmobiliaria Petrona",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "Inmobiliaria Petrona\nCompra, venta y alquiler de casas, terrenos, fincas, quintas, haciendas y más.",
+        "price":  null,
+        "categoryName":  "Agentes inmobiliarios",
+        "address":  "Av. Andres F. Cordova y Adolfo Palomeque S-N Y, 030102 Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "Av. Andres F. Cordova y Adolfo Palomeque S-N Y",
+        "city":  "Azogues",
+        "postalCode":  "030102",
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "+593 99 864 8593",
+        "phoneUnformatted":  "+593998648593",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7456997,
+                         "lng":  -78.8499345
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7532+P2 Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  null,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJa7_eRGoTzZERPQLt1si02nI",
+        "categories":  [
+                           "Agentes inmobiliarios"
+                       ],
+        "fid":  "0x91cd136a44debf6b:0x72dab4c8d6ed023d",
+        "cid":  "8276126039939023421",
+        "reviewsCount":  null,
+        "imagesCount":  2,
+        "imageCategories":  [
+                                "Todas",
+                                "Del propietario",
+                                "Street View y 360°"
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:35.875Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "Abierto las 24 horas"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  true,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "P\u0026P Inmobiliaria Azogues",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Plus Inversiones Ecuador",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Ofertas Inmobiliarias Inveraustro",
+                                     "reviewsCount":  7,
+                                     "totalScore":  4.7
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "VIP Inmobiliar",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Casa",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Inmobiliaria%20Petrona\u0026query_place_id=ChIJa7_eRGoTzZERPQLt1si02nI",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Azogues%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria Azogues Ecuador",
+        "language":  "es",
+        "rank":  9,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xUwejy1hZRj2ZnVNev5TSg\u0026cb_client=search.gws-prod.grass\u0026w=408\u0026h=240\u0026yaw=296.81586\u0026pitch=0\u0026thumbfov=100",
+        "kgmid":  "/g/11y5nw45yr",
+        "businessProfileId":  "15724107716151070388",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Servicios Inmobiliarios \"Crecer\"",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  null,
+        "price":  null,
+        "categoryName":  "Agencia inmobiliaria",
+        "address":  "C. Simón Bolivar \u0026, 030102 Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "C. Simón Bolivar \u0026",
+        "city":  "Azogues",
+        "postalCode":  "030102",
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "+593 98 343 7900",
+        "phoneUnformatted":  "+593983437900",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7407033,
+                         "lng":  -78.8460017
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7553+PH Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  5,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJoyhdhaMSzZER4h4sGYR67VE",
+        "categories":  [
+                           "Agencia inmobiliaria"
+                       ],
+        "fid":  "0x91cd12a3855d28a3:0x51ed7a84192c1ee2",
+        "cid":  "5903509394329181922",
+        "reviewsCount":  1,
+        "reviewsDistribution":  {
+                                    "oneStar":  0,
+                                    "twoStar":  0,
+                                    "threeStar":  0,
+                                    "fourStar":  0,
+                                    "fiveStar":  1
+                                },
+        "imagesCount":  6,
+        "imageCategories":  [
+                                "Todas",
+                                "Exterior",
+                                "Inmueble",
+                                "Del propietario",
+                                "Street View y 360°"
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:36.167Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "9 AM to 12 PM"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "8 AM to 6 PM"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "8 AM to 6 PM"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  false,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "BIENES RAÍCES NEPROSER",
+                                     "reviewsCount":  13,
+                                     "totalScore":  4.3
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Global Bienes Raices",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Inmobiliaria Americanrealtyec.SAS",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Ofertas Inmobiliarias Inveraustro",
+                                     "reviewsCount":  7,
+                                     "totalScore":  4.7
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Más Inmobiliaria",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Servicios%20Inmobiliarios%20%22Crecer%22\u0026query_place_id=ChIJoyhdhaMSzZER4h4sGYR67VE",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Azogues%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria Azogues Ecuador",
+        "language":  "es",
+        "rank":  8,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQYZQ0-BgUPRISROb9pelEdstGlTVU0Ig5WoFXYzXTcSjPfWL8Krqo1Vvc0B8dL3o1z40R8XijSW3D-Xgd9koILoass1nNvvlhE0yKrC4v4OigWEnhZIQqd8DGhH9sPUcsYYnR6g=w408-h306-k-no",
+        "kgmid":  "/g/11fxz79y43",
+        "businessProfileId":  "8437432340577981088",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "116721607485791960807",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/116721607485791960807?hl=es-419",
+                            "name":  "Martin Reyes",
+                            "reviewerNumberOfReviews":  12,
+                            "isLocalGuide":  true,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjXVWi9-jo2NWZ4Ithx1ae-9Ts0uSv89ovdJeAMm7aW45-gYZ5STsw=s1920-c-rp-mo-ba12-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 5 años",
+                            "publishedAtDate":  "2021-09-09T18:02:33.672Z",
+                            "likesCount":  0,
+                            "reviewId":  "ChZDSUhNMG9nS0VJQ0FnSUM2MVpUR1NnEAE",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM2MVpUR1NnEAE!2m1!1s0x0:0x51ed7a84192c1ee2!3m1!1s2@1:CIHM0ogKEICAgIC61ZTGSg%7C%7C?hl=es-419",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Casa azogues",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  null,
+        "price":  null,
+        "categoryName":  "Complejo de apartamentos",
+        "address":  "74CR+5G8, Av 16 de Abril, Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "74CR+5G8, Av 16 de Abril",
+        "city":  "Azogues",
+        "postalCode":  null,
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "",
+        "phoneUnformatted":  "",
+        "claimThisBusiness":  true,
+        "location":  {
+                         "lat":  -2.7295895,
+                         "lng":  -78.858661
+                     },
+        "locatedIn":  "GelaChia",
+        "floor":  null,
+        "plusCode":  null,
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  5,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJ21buNQATzZEROXoDzMOVa68",
+        "categories":  [
+                           "Complejo de apartamentos"
+                       ],
+        "fid":  "0x91cd130035ee56db:0xaf6b95c3cc037a39",
+        "cid":  "12640361447319370297",
+        "reviewsCount":  1,
+        "reviewsDistribution":  {
+                                    "oneStar":  0,
+                                    "twoStar":  0,
+                                    "threeStar":  0,
+                                    "fourStar":  0,
+                                    "fiveStar":  1
+                                },
+        "imagesCount":  1,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:37.214Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+
+                         ],
+        "wasOpenAtScrapeTime":  null,
+        "peopleAlsoSearch":  [
+
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Casa%20azogues\u0026query_place_id=ChIJ21buNQATzZEROXoDzMOVa68",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Azogues%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria Azogues Ecuador",
+        "language":  "es",
+        "rank":  7,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rdXkzOd4C4ESLGveGMVsiQ\u0026cb_client=search.gws-prod.grass\u0026w=408\u0026h=240\u0026yaw=268.90372\u0026pitch=0\u0026thumbfov=100",
+        "kgmid":  "/g/11wc15vtcj",
+        "businessProfileId":  null,
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "116887503006494516151",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/116887503006494516151?hl=es-419",
+                            "name":  "Adriana Solano G.",
+                            "reviewerNumberOfReviews":  23,
+                            "isLocalGuide":  true,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a-/ALV-UjWLPkKL8vco5m8r4A1KKN5XDUW38YExrQIU9C94fjfzeR99C9kv=s1920-c-rp-mo-ba12-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 11 meses",
+                            "publishedAtDate":  "2025-10-27T01:55:38.823Z",
+                            "likesCount":  0,
+                            "reviewId":  "Ci9DQUlRQUNvZENodHljRjlvT2tsalpYUjZkVWRrTkZsbFdVNUhOWGczTW5SV05sRRAB",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsalpYUjZkVWRrTkZsbFdVNUhOWGczTW5SV05sRRAB!2m1!1s0x0:0xaf6b95c3cc037a39!3m1!1s2@1:CAIQACodChtycF9oOkljZXR6dUdkNFllWU5HNXg3MnRWNlE%7C%7C?hl=es-419",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Casa",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  null,
+        "price":  null,
+        "categoryName":  "Complejo de apartamentos",
+        "address":  "C. Simón Bolivar, Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "C. Simón Bolivar",
+        "city":  "Azogues",
+        "postalCode":  null,
+        "state":  null,
+        "countryCode":  "EC",
+        "phone":  "",
+        "phoneUnformatted":  "",
+        "claimThisBusiness":  true,
+        "location":  {
+                         "lat":  -2.7378206,
+                         "lng":  -78.8465449
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7563+V9 Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  5,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJI4oCIAATzZER9YV9F8OZ0Hk",
+        "categories":  [
+                           "Complejo de apartamentos"
+                       ],
+        "fid":  "0x91cd130020028a23:0x79d099c3177d85f5",
+        "cid":  "8777684736936871413",
+        "reviewsCount":  1,
+        "reviewsDistribution":  {
+                                    "oneStar":  0,
+                                    "twoStar":  0,
+                                    "threeStar":  0,
+                                    "fourStar":  0,
+                                    "fiveStar":  1
+                                },
+        "imagesCount":  1,
+        "imageCategories":  [
+                                "Todas",
+                                "Street View y 360°"
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:38.038Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+
+                         ],
+        "wasOpenAtScrapeTime":  null,
+        "peopleAlsoSearch":  [
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "casa",
+                                     "reviewsCount":  1,
+                                     "totalScore":  5
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Azogues",
+                                     "reviewsCount":  2,
+                                     "totalScore":  3
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Casa Azogues",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Calle Simón bolivar 11-73",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 },
+                                 {
+                                     "category":  "También se buscó",
+                                     "title":  "Home",
+                                     "reviewsCount":  0,
+                                     "totalScore":  0
+                                 }
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Casa\u0026query_place_id=ChIJI4oCIAATzZER9YV9F8OZ0Hk",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Azogues%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria Azogues Ecuador",
+        "language":  "es",
+        "rank":  5,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8lrDzR5yNPFA0QQa8Xe__w\u0026cb_client=search.gws-prod.gps\u0026w=408\u0026h=240\u0026yaw=340.42422\u0026pitch=0\u0026thumbfov=100",
+        "kgmid":  "/g/11y7690rwz",
+        "businessProfileId":  null,
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+                        {
+                            "reviewerId":  "113890461508363421781",
+                            "reviewerUrl":  "https://www.google.com/maps/contrib/113890461508363421781?hl=es-419",
+                            "name":  "Luis Morocho",
+                            "reviewerNumberOfReviews":  41,
+                            "isLocalGuide":  true,
+                            "reviewerPhotoUrl":  "https://lh3.googleusercontent.com/a/ACg8ocJ0OoLEDyFW_PMdIrmxZqqcKyPzD8M-AaIzzV-S6DclRwB4Cc0=s1920-c-rp-mo-ba12-br100",
+                            "text":  null,
+                            "textTranslated":  null,
+                            "publishAt":  "Hace 4 meses",
+                            "publishedAtDate":  "2026-05-15T05:58:10.627Z",
+                            "likesCount":  0,
+                            "reviewId":  "Ci9DQUlRQUNvZENodHljRjlvT2xaS2EyTlFjVEZmT0c0NWRFTTJURWwyUlVWNGJWRRAB",
+                            "reviewUrl":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaS2EyTlFjVEZmT0c0NWRFTTJURWwyUlVWNGJWRRAB!2m1!1s0x0:0x79d099c3177d85f5!3m1!1s2@1:CAIQACodChtycF9oOlZKa2NQcTFfOG45dEM2TEl2RUV4bVE%7C%7C?hl=es-419",
+                            "reviewOrigin":  "Google",
+                            "stars":  5,
+                            "rating":  null,
+                            "responseFromOwnerDate":  null,
+                            "responseFromOwnerText":  null,
+                            "reviewImageUrls":  [
+
+                                                ],
+                            "reviewContext":  {
+
+                                              },
+                            "reviewDetailedRating":  {
+
+                                                     },
+                            "visitedIn":  null,
+                            "originalLanguage":  null,
+                            "translatedLanguage":  null
+                        }
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "Plus Inversiones Ecuador",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "Plus Inversiones Ecuador es una empresa inmobiliaria y constructora con más de 20 años de experiencia en Azogues y la provincia del Cañar. Ofrecemos venta y alquiler de propiedades, proyectos inmobiliarios, avalúos, asesoría legal, construcción y gestión de trámites municipales. Brindamos acompañamiento profesional, confianza y respaldo técnico para quienes buscan invertir, comprar o desarrollar bienes inmuebles con seguridad.",
+        "price":  null,
+        "categoryName":  "Agencia inmobiliaria",
+        "address":  "Av. 24 de Mayo, y y Calle Cacique Tenemaza esquina, 030102 Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "Av. 24 de Mayo, y y Calle Cacique Tenemaza esquina",
+        "city":  "Azogues",
+        "postalCode":  "030102",
+        "state":  null,
+        "countryCode":  "EC",
+        "website":  "https://plusinversiones.com/",
+        "phone":  "+593 99 517 1352",
+        "phoneUnformatted":  "+593995171352",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7415187,
+                         "lng":  -78.8485179
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7552+9H Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  null,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJYSDeKFoTzZEREvuuIlKWiPg",
+        "categories":  [
+                           "Agencia inmobiliaria"
+                       ],
+        "fid":  "0x91cd135a28de2061:0xf888965222aefb12",
+        "cid":  "17908729197752154898",
+        "reviewsCount":  null,
+        "imagesCount":  1,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:39.689Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "Abierto las 24 horas"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "Abierto las 24 horas"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  true,
+        "peopleAlsoSearch":  [
+
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=Plus%20Inversiones%20Ecuador\u0026query_place_id=ChIJYSDeKFoTzZEREvuuIlKWiPg",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Azogues%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria Azogues Ecuador",
+        "language":  "es",
+        "rank":  2,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N6Av9PCaGnGREq-os3FAkg\u0026cb_client=search.gws-prod.grass\u0026w=408\u0026h=240\u0026yaw=183.64673\u0026pitch=0\u0026thumbfov=100",
+        "kgmid":  "/g/11nc7nlcvs",
+        "businessProfileId":  "15336163564347272315",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    },
+    {
+        "title":  "P\u0026P Inmobiliaria Azogues",
+        "subTitle":  null,
+        "description":  null,
+        "ownerDescription":  "PYP Inmobiliaria ofrece servicios inmobiliarios integrales, respaldados por un equipo multidisciplinario de abogados y profesionales en la rama. Brindamos asesoría en compra, venta y alquiler de propiedades, revisión y elaboración de contratos, trámites notariales y registrales, regularización de inmuebles, estudios y evaluación de propiedades, gestión de permisos, planificación y desarrollo de proyectos inmobiliarios. Acompañamos a nuestros clientes en cada etapa del proceso, brindando seguridad jurídica, asesoría técnica y soluciones personalizadas para sus proyectos inmobiliarios.",
+        "price":  null,
+        "categoryName":  "Agencia inmobiliaria",
+        "address":  "Bartolomé Serrano, y y Luis Cordero Crespo, 030101 Azogues, Ecuador",
+        "neighborhood":  null,
+        "street":  "Bartolomé Serrano, y y Luis Cordero Crespo",
+        "city":  "Azogues",
+        "postalCode":  "030101",
+        "state":  null,
+        "countryCode":  "EC",
+        "website":  "https://www.facebook.com/pyp.asociados.2025",
+        "phone":  "+593 99 883 4119",
+        "phoneUnformatted":  "+593998834119",
+        "claimThisBusiness":  false,
+        "location":  {
+                         "lat":  -2.7381985,
+                         "lng":  -78.8486164
+                     },
+        "locatedIn":  null,
+        "floor":  null,
+        "plusCode":  "7562+PH Azogues, Ecuador",
+        "menu":  null,
+        "servicesLink":  null,
+        "totalScore":  null,
+        "permanentlyClosed":  false,
+        "temporarilyClosed":  false,
+        "placeId":  "ChIJX-zicD8TzZERUSIGALikyWk",
+        "categories":  [
+                           "Agencia inmobiliaria"
+                       ],
+        "fid":  "0x91cd133f70e2ec5f:0x69c9a4b800062251",
+        "cid":  "7622804954482614865",
+        "reviewsCount":  null,
+        "imagesCount":  6,
+        "imageCategories":  [
+
+                            ],
+        "scrapedAt":  "2026-10-11T00:48:40.321Z",
+        "reserveTableUrl":  null,
+        "googleFoodUrl":  null,
+        "hotelStars":  null,
+        "hotelDescription":  null,
+        "checkInDate":  null,
+        "checkOutDate":  null,
+        "hotelAds":  [
+
+                     ],
+        "popularTimesLiveText":  null,
+        "popularTimesLivePercent":  null,
+        "popularTimesHistogram":  {
+
+                                  },
+        "openingHours":  [
+                             {
+                                 "day":  "sábado",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "domingo",
+                                 "hours":  "Cerrado"
+                             },
+                             {
+                                 "day":  "lunes",
+                                 "hours":  "8:30 AM to 12 PM, 2 to 5 PM"
+                             },
+                             {
+                                 "day":  "martes",
+                                 "hours":  "8:30 AM to 12 PM, 2 to 5 PM"
+                             },
+                             {
+                                 "day":  "miércoles",
+                                 "hours":  "8:30 AM to 12 PM, 2 to 5 PM"
+                             },
+                             {
+                                 "day":  "jueves",
+                                 "hours":  "8:30 AM to 12 PM, 2 to 5 PM"
+                             },
+                             {
+                                 "day":  "viernes",
+                                 "hours":  "8:30 AM to 12 PM, 2 to 5 PM"
+                             }
+                         ],
+        "wasOpenAtScrapeTime":  false,
+        "peopleAlsoSearch":  [
+
+                             ],
+        "placesTags":  [
+
+                       ],
+        "reviewsTags":  [
+
+                        ],
+        "gasPrices":  [
+
+                      ],
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=P%26P%20Inmobiliaria%20Azogues\u0026query_place_id=ChIJX-zicD8TzZERUSIGALikyWk",
+        "searchPageUrl":  "https://www.google.com/maps/search/inmobiliaria%20Azogues%20Ecuador?hl=es",
+        "searchString":  "inmobiliaria Azogues Ecuador",
+        "language":  "es",
+        "rank":  1,
+        "isAdvertisement":  false,
+        "imageUrl":  "https://lh3.googleusercontent.com/grass-cs/AABkmLcusJ78R3_cKUoIEmvHN6XESbk3tjv6aCKq9Hm-Xz9v4aOw-gI5-CyAoJUkaGgh8X6b2KAKYY5eFxDc84xZpJO6oqJYnxLSv6_rjakd2ykhJIMg1ZoJlvQ35H1QbE-9jyCQ3rGQZeV68mx9=w408-h724-k-no",
+        "kgmid":  "/g/11zxf2222_",
+        "businessProfileId":  "3764562124490872785",
+        "questionsAndAnswers":  [
+
+                                ],
+        "webResults":  [
+
+                       ],
+        "tableReservationLinks":  [
+
+                                  ],
+        "tableReservationProviders":  [
+
+                                      ],
+        "bookingLinks":  [
+
+                         ],
+        "restaurantData":  {
+                               "tableReservationProvider":  null
+                           },
+        "ownerUpdates":  [
+
+                         ],
+        "imageUrls":  [
+
+                      ],
+        "reviews":  [
+
+                    ],
+        "leadsEnrichment":  [
+
+                            ]
+    }
+]

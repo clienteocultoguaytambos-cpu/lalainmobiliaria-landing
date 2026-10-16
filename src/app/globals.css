@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0b201d;
+  --foreground: #f7f5ef;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/* Glassmorphism helpers */
+.glass-panel {
+  background: rgba(19, 56, 52, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(200, 162, 87, 0.2);
+}
+
+.glass-card {
+  background: rgba(23, 65, 60, 0.6);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card-hover {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.glass-card-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(200, 162, 87, 0.4);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* Custom gold gradient */
+.text-gold-gradient {
+  background: linear-gradient(135deg, #e5cb8e 0%, #c8a257 50%, #aa853c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn-gold {
+  background: linear-gradient(135deg, #dfbe73 0%, #c8a257 60%, #b28a39 100%);
+  color: #0c2421;
+  font-weight: 700;
+  transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.btn-gold:hover {
+  background: linear-gradient(135deg, #ebd498 0%, #d4b065 60%, #be9643 100%);
+  box-shadow: 0 0 20px rgba(200, 162, 87, 0.4);
+  transform: translateY(-2px);
+}
